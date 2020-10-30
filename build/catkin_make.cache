@@ -1,0 +1,2 @@
+motion_model
+-DCATKIN_DEVEL_PREFIX=/home/george/rainexam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/george/rainexam_ws/install -G Unix Makefiles

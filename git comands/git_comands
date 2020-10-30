@@ -1,0 +1,7 @@
+echo "# rainexam_ws" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GeorgeBethel/rainexam_ws.git  #push to your git link
+git push -u origin main
