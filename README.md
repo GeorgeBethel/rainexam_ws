@@ -1,2 +1,2 @@
 # rainexam_ws
-Exam practical for ROS
+Exam practical for ROS and computer vision
